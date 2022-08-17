@@ -1,4 +1,4 @@
-# stock-price_predictor
+# stock-price-predictor
 
 ## About
 - A basic AI/Ml project which takes in a company and n (number of days to predict stock) 
